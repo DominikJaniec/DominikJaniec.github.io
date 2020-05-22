@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages of Dominik Janiec
 
 You can use the [editor on GitHub](https://github.com/DominikJaniec/DominikJaniec.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Whenever you commit** to _this repository_, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+## public pages list
+
+* 2018-12-02 16:42:02 +0100 | [`just-write-here.html`](just-write-here.html)
+
+----
+
+## help
 
 ### Markdown
 
@@ -30,7 +38,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DominikJaniec/DominikJaniec.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DominikJaniec/DominikJaniec.github.io/settings). The name of this theme is saved in the [Jekyll `_config.yml` configuration file](_config.yml).
 
 ### Support or Contact
 
